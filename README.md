@@ -14,7 +14,7 @@ Hello I'm Fathan. this project bootstrapped with [`create-next-app`](https://git
 - Redux for State Management
 - Redux Persist for Persistance Data
 - Bootstrap@5.3.1
-- iron-session for session store data auth
+- Cookie for save store data auth
 ```
 
 ## Getting Started
