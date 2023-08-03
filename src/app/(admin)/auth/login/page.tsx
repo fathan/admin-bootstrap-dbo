@@ -84,7 +84,7 @@ function AuthLogin() {
                               type="email"
                               {...register('email')}
                               className="form-control"
-                              placeholder="e.g: fathan@dbo.id"
+                              placeholder="Input value email developer@dbo.id or admin@dbo.id"
                             />
                           </div>
                           {errors.email && <span className="text-danger small">{errors.email.message}</span>}
@@ -100,7 +100,7 @@ function AuthLogin() {
                               type="password"
                               {...register('password')}
                               className="form-control"
-                              placeholder="Enter Your Password"
+                              placeholder="password: 12345"
                             />
                           </div>
                           {errors.password && <span className="text-danger small">{errors.password.message}</span>}

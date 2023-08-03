@@ -54,21 +54,24 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ----
 
 ## Screenshot projects
-----
+
 ## Authentication Login<br>
-![](./src/assets/images/ss1.png)
+![](./screenshoot/ss2.png)
 
 ## Dashboard<br>
-![](./src/assets/images/ss2.png)
+![](./screenshoot/ss6.png)
 
 ## Supplier Management<br>
-![](./src/assets/images/ss3.png)
+![](./screenshoot/ss5.png)
 
 ## Customer Management<br>
-![](./src/assets/images/ss4.png)
+![](./screenshoot/ss4.png)
+
+## Create New Customer<br>
+![](./screenshoot/ss1.png)
 
 ## Order Management<br>
-![](./src/assets/images/ss5.png)
+![](./screenshoot/ss3.png)
 
 Thank You,
 Fathan 
